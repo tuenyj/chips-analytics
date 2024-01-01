@@ -9,6 +9,7 @@ Data for this project includes the file _'QVI_purchase_behaviour.csv'_, which co
 
 # Files Included
 * _chips_JUP.ipynb_ is a Jupyter notebook detailing our analysis strategy, findings, and marketing recommendations
+* _chips_presentation.pdf_ is a slide deck our team used to present our project to our MBAN class
 * The two datasets described above
 
 # Authors
